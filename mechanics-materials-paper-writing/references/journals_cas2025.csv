@@ -1,0 +1,45 @@
+﻿group,name,issn,major,major_zone,mech_zone,mech_rank,top,jcr,if
+力学1区,International Journal of Impact Engineering,0734-743X,工程技术,2,1,10/171,否,Q1,6.7
+力学1区,Thin-Walled Structures,0263-8231,工程技术,2,1,11/171,是,Q1,8.3
+力学1区,Theoretical and Applied Fracture Mechanics,0167-8442,工程技术,2,1,13/171,是,Q1,6.0
+力学1区,International Journal of Plasticity,0749-6419,材料科学,1,1,2/171,是,Q1,15.4
+力学1区,Applied Mechanics Reviews,0003-6900,工程技术,1,1,3/171,是,Q1,19.1
+力学1区,International Journal of Mechanical Sciences,0020-7403,工程技术,1,1,5/171,是,Q1,11.4
+力学1区,Computer Methods in Applied Mechanics and Engineering,0045-7825,工程技术,1,1,6/171,是,Q1,7.6
+力学1区,Composite Structures,0263-8223,材料科学,2,1,9/171,否,Q1,7.8
+力学2区,Journal of the Mechanics and Physics of Solids,0022-5096,工程技术,2,2,15/171,否,Q1,6.2
+力学2区,Physics of Fluids,1070-6631,工程技术,2,2,19/171,否,Q1,3.8
+力学2区,International Journal of Heat and Mass Transfer,0017-9310,工程技术,2,2,20/171,否,Q1,6.6
+力学2区,Journal of Fluid Mechanics,0022-1120,工程技术,2,2,21/171,否,Q1,4.2
+力学2区,Applied Mathematical Modelling,0307-904X,工程技术,2,2,22/171,否,Q1,5.5
+力学2区,Nonlinear Dynamics,0924-090X,工程技术,2,2,23/171,否,Q1,5.7
+力学2区,Journal of Fluids and Structures,0889-9746,工程技术,2,2,24/171,否,Q2,3.6
+力学2区,Engineering Fracture Mechanics,0013-7944,工程技术,2,2,25/171,否,Q1,6.2
+力学2区,Journal of Sound and Vibration,0022-460X,工程技术,2,2,26/171,否,Q1,5.8
+力学2区,International Journal of Damage Mechanics,1056-7895,工程技术,2,2,27/171,否,Q2,3.0
+力学2区,International Journal of Multiphase Flow,0301-9322,工程技术,2,2,28/171,否,Q2,3.9
+力学2区,European Journal of Mechanics - A/Solids,0997-7538,工程技术,2,2,29/171,否,Q1,4.7
+力学2区,International Journal for Numerical and Analytical Methods in Geomechanics,0363-9061,工程技术,2,2,32/171,否,Q2,3.6
+力学2区,Computational Mechanics,0178-7675,工程技术,2,2,34/171,否,Q1,4.5
+力学2区,International Journal of Solids and Structures,0020-7683,工程技术,2,2,37/171,否,Q1,4.6
+力学2区,Applied Mathematics and Mechanics,0253-4827,工程技术,2,2,38/171,否,Q1,4.9
+力学2区,Theoretical and Applied Mechanics Letters,2095-0349,工程技术,2,2,41/171,否,Q2,3.0
+相邻刊,International Journal of Engineering Science,0020-7225,工程技术,2,,,否,Q1,5.4
+相邻刊,Journal of Computational Physics,0021-9991,物理与天体物理,2,,,是,Q1,3.9
+相邻刊,International Journal of Fatigue,0142-1123,材料科学,2,,,是,Q1,7.0
+相邻刊,Composites Science and Technology,0266-3538,材料科学,2,,,是,Q1,9.9
+相邻刊,Mechanical Systems and Signal Processing,0888-3270,工程技术,1,,,是,Q1,10.2
+相邻刊,Archives of Computational Methods in Engineering,1134-3060,工程技术,1,,,是,Q1,12.9
+三/四区候选,Mechanics of Time-Dependent Materials,1385-2000,材料科学,3,4,,否,Q1,4.5
+三/四区候选,Acta Mechanica,0001-5970,工程技术,3,4,,否,Q1,4.0
+三/四区候选,Mechanics Based Design of Structures and Machines,1539-7734,工程技术,3,4,,否,Q2,3.7
+三/四区候选,Fatigue & Fracture of Engineering Materials & Structures,8756-758X,材料科学,3,,,否,Q2,3.2
+三/四区候选,Archive of Applied Mechanics,0939-1533,工程技术,3,4,,否,Q2,3.1
+三/四区候选,Mechanics of Advanced Materials and Structures,1537-6494,材料科学,3,3,,否,,
+三/四区候选,Acta Mechanica Solida Sinica,0894-9166,工程技术,4,4,,否,Q2,2.6
+三/四区候选,Journal of Mechanical Science and Technology,1738-494X,工程技术,4,,,否,Q3,2.2
+三/四区候选,Mechanics of Composite Materials,0191-5665,材料科学,4,4,,否,Q3,1.6
+三/四区候选,Mechanics of Solids,0025-6544,工程技术,4,4,,否,Q4,1.0
+三/四区候选,Journal of Applied Mechanics and Technical Physics,0021-8944,工程技术,4,4,,否,Q4,0.8
+三/四区候选,Strength of Materials,0039-2316,材料科学,4,,,否,Q4,0.8
+三/四区候选,International Applied Mechanics,1063-7095,工程技术,4,4,,否,Q4,0.6
